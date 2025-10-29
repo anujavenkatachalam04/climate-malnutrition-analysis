@@ -1,4 +1,5 @@
 # Mapping the Climate–Nutrition Nexus: Temporal and Geospatial Analysis of Malnutrition and Heat Stress in Maharashtra
+Presented at IIT-Bombay in June 2025
 
 Key topics:
 - Reporting of Malnutrition Indicators in Maharashtra
